@@ -95,8 +95,5 @@ $ nam filename.nam
     <li>Linux environment (e.g., Kali, Ubuntu)</li>
   </ul>
 
-  <h2>📧 Contact</h2>
-  <p>If you have questions or want to collaborate, feel free to reach out or open an issue in the GitHub repository.</p>
-
 </body>
 </html>
